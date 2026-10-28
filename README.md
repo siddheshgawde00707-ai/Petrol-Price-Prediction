@@ -1,7 +1,5 @@
 <img width="476" height="287" alt="Petrol_price_prediction" src="https://github.com/user-attachments/assets/29ad0b20-4002-48b1-a66d-5bab73181d66" />
 
-Here is a 10-point summary of the project based on the provided data:
-
 * **Project Focus**: It explores the macroeconomic factors, tax structures, and state-wise variations influencing petrol prices in India.
 
 
